@@ -1,0 +1,3 @@
+gevent
+beautifulsoup4
+requests
